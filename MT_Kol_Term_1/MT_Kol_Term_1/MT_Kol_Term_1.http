@@ -1,0 +1,6 @@
+@MT_Kol_Term_1_HostAddress = http://localhost:5050
+
+GET {{MT_Kol_Term_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
